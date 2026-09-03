@@ -57,7 +57,6 @@ Deep learning image classification model utilizing Convolutional Neural Networks
 
 # Contact
 * Email: muhammadfayazkhan50@gmail.com
-* Phone: 03120770266
 * LinkedIn: https://linkedin.com/in/muhammad-fayaz-khan-271487381
 * GitHub: https://github.com/mfayazkhan50-AI
 * TikTok: https://tiktok.com/@aiwithmfk
