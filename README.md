@@ -26,7 +26,7 @@ I work across the full product lifecycle—from system design and backend implem
 An AI receptionist concept that helps clinics handle appointment requests after hours, including booking, rescheduling, and email confirmations.
 
 **Focus:** Business automation · AI agents · RAG
-[See the portfolio](https://github.com/mfayazkhan50-AI/my_portfolio)
+[See the portfolio](https://mfayazkhan.vercel.app)
 
 ### CompetiTrack AI
 An autonomous competitor-monitoring agent that checks product prices and availability and sends alerts when it detects changes.
