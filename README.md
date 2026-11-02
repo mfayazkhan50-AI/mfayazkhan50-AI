@@ -6,7 +6,7 @@
 
 I design and build practical AI systems that help businesses automate repetitive work, find answers in their documents, and serve customers around the clock.
 
-[Portfolio](https://github.com/mfayazkhan50-AI/my_portfolio) · [LinkedIn](https://linkedin.com/in/muhammad-fayaz-khan-271487381) · [Email](mailto:muhammadfayazkhan50@gmail.com)
+[Portfolio](https://mfayazkhan.vercel.app) · [LinkedIn](https://linkedin.com/in/muhammad-fayaz-khan-271487381) · [Email](mailto:muhammadfayazkhan50@gmail.com)
 
 </div>
 
